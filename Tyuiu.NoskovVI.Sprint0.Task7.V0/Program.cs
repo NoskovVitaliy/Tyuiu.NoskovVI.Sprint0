@@ -11,7 +11,7 @@ namespace Tyuiu.NoskovVI.Sprint0.Task7.V0
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");
-            Console.WriteLine("* Выполнил: Носков Виталий Игоревич | ПКТб-24-1                        *");
+            Console.WriteLine("* Выполнил: Носков Виталий Игоревич | ПКТб-24-1                           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух    *");
